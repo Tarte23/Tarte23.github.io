@@ -1,0 +1,8 @@
+.fancy {
+
+  padding: 1em;
+  border: 0.5em solid black;
+
+  width: 4em;
+  height: 4em;
+}
