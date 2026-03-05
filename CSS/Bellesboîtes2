@@ -1,4 +1,4 @@
-.fancy {
+fancy {
 
   padding: 1em;
   border: 0.5em solid black;
