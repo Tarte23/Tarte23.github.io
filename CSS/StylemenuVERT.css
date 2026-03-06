@@ -15,14 +15,15 @@ ul li {
 
 ul li a {
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-	color: ;
+	color: #365775;
 }
 
 ul li a:hover {
   background-color: #699bc9;
   
 } 
+
