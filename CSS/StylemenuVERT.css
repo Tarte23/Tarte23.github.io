@@ -1,5 +1,6 @@
 
-ul {
+
+		ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -15,15 +16,14 @@ ul li {
 
 ul li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-	color: #365775;
+	color: white;
 }
 
 ul li a:hover {
   background-color: #699bc9;
   
 } 
-
