@@ -1,34 +1,28 @@
 
-
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
+  overflow: hidden;
+  background-color: #365775;
+			
 }
 
-li a {
+ul li {
+  
+  float: center;
+}
+
+ul li a {
   display: block;
   color: black;
-  padding: 8px 16px;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
+	color: ;
 }
 
-li a:hover {
-  background-color: #555555;
-  color: white;
-}
-</style>
-</head>
-<body>
-
-<h2>Gray Vertical Navbar</h2>
-
-<ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
-<!-- https://www.w3schools.com/css/css_navbar_vertical.asp -->
+ul li a:hover {
+  background-color: #699bc9;
+  
+} 
